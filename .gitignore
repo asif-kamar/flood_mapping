@@ -1,0 +1,14 @@
+data_raw/
+data_processed/
+*.tif
+*.zip
+*.tar
+*.pkl
+*.shp
+*.gpkg
+*.geojson
+*.csv
+*.h5
+*.pickle
+*.pt
+*.model
